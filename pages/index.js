@@ -33,7 +33,6 @@ export default function Home() {
           style={{margin: "auto",}}
         >
           Powered by
-         
         </a>
         
         </p>
