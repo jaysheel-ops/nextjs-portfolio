@@ -40,7 +40,7 @@ export default function Home() {
         <span className={styles.logo}>
             <Image 
               src="/githublogo.png" 
-              alt="Vercel Logo" 
+              alt="Github Logo" 
               width={120} 
               height={68} 
               style={{margin: "auto"}} 
