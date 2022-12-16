@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import githublogo from "/public/githublogo.png"
-import favico from "/public/favicon.ico";
+
 export default function Home() {
   return (
     <div className={styles.container} style={{fontSize: "30px", }}>
