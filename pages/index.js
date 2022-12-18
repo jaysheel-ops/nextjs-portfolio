@@ -37,7 +37,11 @@ export default function Home() {
         </a>
         
         </p>
-
+        <a
+          href="https://github.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
         <span className={styles.logo}>
             <Image 
               src={githublogo}
@@ -48,6 +52,7 @@ export default function Home() {
             />
           </span>
 
+          </a>
         
       </main>
     </div>
